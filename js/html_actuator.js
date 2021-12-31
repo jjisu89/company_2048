@@ -49,18 +49,18 @@ HTMLActuator.prototype.clearContainer = function (container) {
 var val2caption = function(val){
 
   const captions = [
-  "왕2", 
-  "왕4",
-  "왕8",
-  "왕16",
-  "왕32", 
-  "왕64",
-  "왕128",
-  "왕256",
-  "왕512",
-  "왕1024",
-  "왕2048",
-  "왕4096"];
+  "사원", 
+  "대리",
+  "과장",
+  "차장",
+  "부장", 
+  "상무",
+  "전무",
+  "사장",
+  "회장",
+  "은퇴",
+  "코딩",
+  "독서"];
 
   // if(val <= 0) return "<span style='font-size:smaller'>Garbage</span>";
   // if(val == 1){
