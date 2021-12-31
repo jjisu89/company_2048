@@ -48,7 +48,8 @@ HTMLActuator.prototype.clearContainer = function (container) {
 
 var val2caption = function(val){
 
-  const captions = [
+  const captions = ["취준",
+    "인턴",
   "사원", 
   "대리",
   "과장",
