@@ -59,9 +59,9 @@ var val2caption = function(val){
   "전무",
   "사장",
   "회장",
-  "은퇴",
-  "코딩",
-  "독서"];
+  "백수",
+  "낚시",
+  "독서","코딩"];
 
   // if(val <= 0) return "<span style='font-size:smaller'>Garbage</span>";
   // if(val == 1){
